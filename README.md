@@ -1,4 +1,4 @@
-# React + Vite
+# Dice Game
 
 Welcome to the Dice Game project! This simple game allows you to select a number and roll a dice. If your selected number matches the number on the dice, your score increases by that number. If not, your score decreases by 2.
 
